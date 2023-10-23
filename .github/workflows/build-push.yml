@@ -18,3 +18,4 @@ jobs:
             - name: Build and Push the Image to Docker Hub
               shell: bash
               run: ./build_and_push.sh
+
